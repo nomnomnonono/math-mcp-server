@@ -8,3 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.mypy_cache/
+.ruff_cache/
+
+.cursorignore
